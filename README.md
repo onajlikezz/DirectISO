@@ -1,5 +1,5 @@
 # DirectISO
-this program was created to speed up the PC, it is currently in beta phase.
+A script that can download Windows, Linux and Custom Operating Systems. As the program develops, there will be more Operating Systems.
 
 ## Download
 Click [Here](https://github.com/onajlikezz/DirectISO/releases) To See Releases
@@ -8,7 +8,7 @@ Click [Here](https://github.com/onajlikezz/DirectISO/releases) To See Releases
 - [x] [Support](#SUPPORT)
 
 ## WHAT DOES THIS PROGRAM DO?
-This script **shuts down services**, adds a **special power plan** and makes some **other tweaks** to the computer for *more performance and fewer processes.*
+This script downloads ISO files that you can use, it's simple and the support for it will be constant, so new Custom ISO files will be coming all the time.
 
 ## SUPPORT
 IF YOU HAVE ANY QUESTIONS [CLICK HERE](https://discord.gg/9S28yfAVWq) TO ENTER DSCORD SERVER
