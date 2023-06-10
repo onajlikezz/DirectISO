@@ -1,2 +1,2 @@
 # DirectISO
-with the help of this program you can download all known operating systems
+[Download](https://github.com/onajlikezz/DirectISO/releases)
